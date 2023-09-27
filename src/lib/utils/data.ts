@@ -5,7 +5,7 @@ export const concerts = [
 	},
 	{
 		heading: "Beach Goons",
-		content: "Sounded great, one of my favorite performances I think. As soon as they started with the first guitar riff, the crowd went absolutely bonkers"
+		content: "Sounded great, one of my favorite performances I think. As soon as they started with the first guitar riff, the crowd went absolutely bonkers, same exact thing happend 2nd time i saw them, lost my glasses in the crowd, 10/10 would do again"
 	},
 	{
 		heading: "Death Lens",
