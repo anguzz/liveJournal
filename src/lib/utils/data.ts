@@ -8,8 +8,12 @@ export const concerts = [
 		content: "Sounded great, one of my favorite performances I think. As soon as they started with the first guitar riff, the crowd went absolutely bonkers"
 	},
 	{
+		heading: "Death Lens",
+		content: "The most amount of crowd diving and surfing I've seen in a while"
+	},
+	{
 		heading: "Enjoy",
-		content: "Pretty good, and the tickets were mega cheap when I saw them in 2018-ish. Also, a small venue, so they were like a couple of feet away"
+		content: "Pretty good, and the tickets were mega cheap when I saw them in 2018-ish. Also, a small venue, so they were like a couple of feet away, The Second time I saw them they were also really good live"
 	},
 	{
 		heading: "Good Morning",
@@ -42,6 +46,10 @@ export const concerts = [
 	{
 		heading: "The Garden",
 		content: "Pretty intense pit and crowd, like 5 people fainted during their performance because it was so cramped and hot"
+	},
+	{
+		heading: "The High Curbs",
+		content: "Songs sounded great live, lots of energy"
 	},
 	{
 		heading: "TV Girl",
