@@ -36,6 +36,10 @@ export const concerts = [
 		content: "Really enjoyed seeing them in person, played a lot of their popular stuff, which I enjoyed and sounded great"
 	},
 	{
+		heading: "Tiësto",
+		content: "Got all the way to the front of the huge crowd, which was pretty sick, speakers were cool and mega loud and I liked feeling the vibrations in my whole body"
+	},
+	{
 		heading: "The Adicts",
 		content: "Pretty good performance, and a lot of their popular songs sounded good"
 	},
