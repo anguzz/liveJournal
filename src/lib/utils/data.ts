@@ -1,5 +1,9 @@
 export const concerts = [
 	{
+		heading: "311",
+		content: "Their vocals aged very well and sound very refined, great energy"
+	},
+	{
 		heading: "Atmosphere",
 		content: "Cool to see them in person since I heard them a lot growing up while playing some Tony Hawk Underground 2 on PlayStation 2 "
 	},
@@ -42,6 +46,10 @@ export const concerts = [
 	{
 		heading: "The Adicts",
 		content: "Pretty good performance, and a lot of their popular songs sounded good"
+	},
+	{
+		heading: "The Bouncing souls",
+		content: "Great performers, awesome crowd everyone was singing along, lots of old rowdy drunk dudes :D "
 	},
 	{
 		heading: "The Frights",
