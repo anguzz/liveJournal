@@ -12,9 +12,23 @@ export const concerts = [
 		content: "Sounded great, one of my favorite performances I think. As soon as they started with the first guitar riff, the crowd went absolutely bonkers, same exact thing happend 2nd time i saw them, lost my glasses in the crowd, 10/10 would do again"
 	},
 	{
+		heading: "Circle Jerks",
+		content: "sounded sick live "
+	},
+		
+	{
+		heading: "Dead Kennedys",
+		content: "lots of energy, enjoyed seeing them live and seeing them play chemical warfare live"
+	},
+	{
 		heading: "Death Lens",
 		content: "The most amount of crowd diving and surfing I've seen in a while"
 	},
+    {
+		heading: "Descendents",
+		content: "energy was crazy, went to the show half dead with bronchitis but still had fun"
+	},
+
 	{
 		heading: "Enjoy",
 		content: "Pretty good, and the tickets were mega cheap when I saw them in 2018-ish. Also, a small venue, so they were like a couple of feet away, The Second time I saw them they were also really good live"
@@ -36,8 +50,17 @@ export const concerts = [
 		content: "Vocals sounded amazing"
 	},
 	{
+		heading: "Pennywise",
+		content: "sounded good live but lots of weird old dudes during this crowd"
+	},
+	{
 		heading: "Slightly Stoopid",
 		content: "Really enjoyed seeing them in person, played a lot of their popular stuff, which I enjoyed and sounded great"
+	},
+	
+	{
+		heading: "Subhumans",
+		content: "saw them at a super small venue and the crowd was super sick and went in the pit the whole show and came out soaked because of how small and hot and crowded it was"
 	},
 	{
 		heading: "Tiësto",
@@ -64,6 +87,10 @@ export const concerts = [
 		content: "Songs sounded great live, lots of energy"
 	},
 	{
+		heading: "The Suicide Machines",
+		content: "they played lots of their bangers and they sounded sick live"
+	},
+	{
 		heading: "TV Girl",
 		content: "Played a lot of their popular stuff, sounded pretty good, no complaints"
 	},
@@ -71,4 +98,9 @@ export const concerts = [
 		heading: "TWRP",
 		content: "Great performers, love how they interact with the crowd and sounded amazing"
 	}
+
+
+
+
+	
 ];
