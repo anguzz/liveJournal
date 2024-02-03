@@ -12,6 +12,10 @@ export const concerts = [
 		content: "Sounded great, one of my favorite performances I think. As soon as they started with the first guitar riff, the crowd went absolutely bonkers, same exact thing happend 2nd time i saw them, lost my glasses in the crowd, 10/10 would do again"
 	},
 	{
+		heading:"Black Flag",
+		content:"Saw them in my hometown of Santa ana at the observatory, the pit was super crowded the whole time and they sounded amazing live"
+	}
+	{
 		heading: "Circle Jerks",
 		content: "sounded sick live "
 	},
