@@ -14,7 +14,7 @@ export const concerts = [
 	{
 		heading:"Black Flag",
 		content:"Saw them in my hometown of Santa ana at the observatory, the pit was super crowded the whole time and they sounded amazing live"
-	}
+	},
 	{
 		heading: "Circle Jerks",
 		content: "sounded sick live "
