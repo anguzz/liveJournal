@@ -52,7 +52,7 @@
     >
   </IconButton>
 
-  <!-- linkedin -->
+  <!-- 
   <IconButton link={icons.linkedin.link} name={icons.linkedin.name}>
     <svg
       aria-hidden="true"
@@ -69,7 +69,7 @@
       /></svg
     >
   </IconButton>
-
+-->
   <IconButton link={icons.email.link} name={icons.email.name}>
     <svg
       xmlns="http://www.w3.org/2000/svg"
