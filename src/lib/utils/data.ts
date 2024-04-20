@@ -35,7 +35,7 @@ export const concerts = [
 
 	{
 		heading: "Enjoy",
-		content: "Pretty good, and the tickets were mega cheap when I saw them in 2018-ish. Also, a small venue, so they were like a couple of feet away, The Second time I saw them they were also really good live"
+		content: "Pretty good, and the tickets were mega cheap when I saw them in 2018-ish. Also, a small venue, so they were like a couple of feet away, The Second time I saw them they were also really good live. The third time I saw them they had really good energy, the crowd was really into the performance and it was so crowded and sold out."
 	},
 	{
 		heading: "Good Morning",
