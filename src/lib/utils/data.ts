@@ -100,7 +100,7 @@ export const concerts = [
 	},
 	{
 		heading: "TWRP",
-		content: "Great performers, love how they interact with the crowd and sounded amazing"
+		content: "Great performers, love how they interact with the crowd and sounded amazing, saw them again in 2024 for their digital nightmare tour and got VIP passes and was one of the best shows I've been to. Once again sounded 10/10"
 	}
 
 
