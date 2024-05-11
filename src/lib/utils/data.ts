@@ -101,7 +101,11 @@ export const concerts = [
 	{
 		heading: "TWRP",
 		content: "Great performers, love how they interact with the crowd and sounded amazing, saw them again in 2024 for their digital nightmare tour and got VIP passes and was one of the best shows I've been to. Once again sounded 10/10"
-	}
+	},
+	{
+		heading: "Yellow Days",
+		content: "sounded a lot different live then the recordings, still good but seemed to almost freestyle a bit more compared to album recordings, which makes sense since with their jazz influence"
+	},
 
 
 

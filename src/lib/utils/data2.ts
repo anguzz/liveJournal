@@ -1,8 +1,5 @@
 export const concerts = [
-	{
-		heading: "Yellow Days",
-		content: ""
-	},
+
 	{
 		heading:"The Misfits",
 		content:""
@@ -39,6 +36,14 @@ export const concerts = [
 	},
 	{
 		heading:"Black Flag",
+		content:""
+	},
+	{
+		heading:"Yot Club",
+		content:""
+	},
+	{
+		heading:"Vacations",
 		content:""
 	},
 ];
