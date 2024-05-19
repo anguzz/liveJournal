@@ -106,6 +106,10 @@ export const concerts = [
 		heading: "Yellow Days",
 		content: "sounded a lot different live then the recordings, still good but seemed to almost freestyle a bit more compared to album recordings, which makes sense since with their jazz influence"
 	},
+	{
+		heading: "Yot Club",
+		content: "Sounded amazing live, prob one of the best performances i went to during 2024"
+	},
 
 
 
