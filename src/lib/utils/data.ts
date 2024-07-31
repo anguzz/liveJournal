@@ -50,6 +50,10 @@ export const concerts = [
 		content: "Super hype, the crowd was super hyped"
 	},
 	{
+		heading:"Mac DeMarco",
+		content:"Was pretty sick, some random guy gave us front his front row tickets so Mac was like 20 feet away and could see him very clearly. His vocals sounded amazing live and he had such great energy, 100/10 been wanting to see my fav artist 4ever"
+	},
+	{
 		heading: "No Vacation",
 		content: "Vocals sounded amazing"
 	},
