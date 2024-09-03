@@ -108,6 +108,7 @@ export const concerts = [
 	},
 	{
 		heading:"Vacations",
+		content:"Vocals sounded just as good or better live and they made lots of jokes during performance that made it funny and enjoyable"
 	},
 	{
 		heading: "Yellow Days",
