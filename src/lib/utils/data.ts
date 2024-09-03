@@ -107,12 +107,19 @@ export const concerts = [
 		content: "Great performers, love how they interact with the crowd and sounded amazing, saw them again in 2024 for their digital nightmare tour and got VIP passes and was one of the best shows I've been to. Once again sounded 10/10"
 	},
 	{
+		heading:"Vacations",
+	},
+	{
 		heading: "Yellow Days",
 		content: "sounded a lot different live then the recordings, still good but seemed to almost freestyle a bit more compared to album recordings, which makes sense since with their jazz influence"
 	},
 	{
 		heading: "Yot Club",
 		content: "Sounded amazing live, prob one of the best performances i went to during 2024"
+	},
+	{
+		heading: "Zedd",
+		content: "Saw him in Vegas at the Omnia nightclub, sounded super great live, got a great lightshow and was at the very front like 3 feet away. Even though he started like 1:40am and I was tired it felt like he was controlling my heart bpm with how good he was. The thing that sucked was the crowd was super rude and the nightclub was sold out or oversold to the point there was no space to move around which was frustrating when trying to do anything."
 	},
 
 
