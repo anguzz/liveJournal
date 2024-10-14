@@ -16,6 +16,10 @@ export const concerts = [
 		content:"Saw them in my hometown of Santa ana at the observatory, the pit was super crowded the whole time and they sounded amazing live"
 	},
 	{
+		heading:"Cigarettes after sex",
+		content:"saw them at kia forum, completely sold out so it was pretty packed, sounded pretty good live though! got the tickets pre-sale about 1+ year in advanced"
+	},
+	{
 		heading: "Circle Jerks",
 		content: "sounded sick live "
 	},
