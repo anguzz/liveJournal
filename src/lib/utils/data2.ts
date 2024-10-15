@@ -6,5 +6,13 @@ export const concerts = [
 		heading:"HOMESHAKE",
 		content:""
 	},
+	{
+		heading:"Vacations(again)",
+		content:""
+	},
+	{
+		heading:"Yot Club(again)",
+		content:""
+	},
 	
 ];
