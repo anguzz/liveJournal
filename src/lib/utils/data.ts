@@ -50,6 +50,10 @@ export const concerts = [
 		content: "Saw them on 4/20, which made it a very lit show"
 	},
 	{
+		heading:"HOMESHAKE",
+		content:"Pretty awesome, Peter's vocals sound just as good live as the recordings, and its crazy how much control he has over them. He doesn't play all his songs like the recordings so the live performance is pretty unique "
+	},
+	{
 		heading: "Jpegmafia",
 		content: "Super hype, the crowd was super hyped"
 	},
@@ -112,7 +116,7 @@ export const concerts = [
 	},
 	{
 		heading:"Vacations",
-		content:"Vocals sounded just as good or better live and they made lots of jokes during performance that made it funny and enjoyable"
+		content:"Vocals sounded just as good or better live and they made lots of jokes during performance that made it funny and enjoyable. Second time I saw them they were even better because the venue gave me a great view and I saw them from a balcony, the crowd and energy was awesome"
 	},
 	{
 		heading: "Yellow Days",
@@ -120,7 +124,7 @@ export const concerts = [
 	},
 	{
 		heading: "Yot Club",
-		content: "Sounded amazing live, prob one of the best performances i went to during 2024"
+		content: "Sounded amazing live, prob one of the best performances i went to during 2024. The second time I saw them(twice in a year) they were just as good, I saw them alongside yot club."
 	},
 	{
 		heading: "Zedd",
