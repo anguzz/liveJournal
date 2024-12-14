@@ -128,7 +128,7 @@ export const concerts = [
 	},
 	{
 		heading: "Yot Club",
-		content: "Sounded amazing live, prob one of the best performances i went to during 2024. The second time I saw them(twice in a year) they were just as good, I saw them alongside yot club."
+		content: "Sounded amazing live, prob one of the best performances i went to during 2024. The second time I saw them(twice in a year) they were just as good, I saw them alongside Vacations."
 	},
 	{
 		heading: "Zedd",
