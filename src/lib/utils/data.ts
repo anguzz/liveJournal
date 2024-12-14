@@ -42,6 +42,10 @@ export const concerts = [
 		content: "Pretty good, and the tickets were mega cheap when I saw them in 2018-ish. Also, a small venue, so they were like a couple of feet away, The Second time I saw them they were also really good live. The third time I saw them they had really good energy, the crowd was really into the performance and it was so crowded and sold out."
 	},
 	{
+		heading: "Foxtide",
+		content: "Bought the tickets day of, for the heck of it since I was on the fence about seeing em. They sounded really amazing live and the jazz guitar chords were so sick in person. Pretty worth and would def see again"
+	},
+	{
 		heading: "Good Morning",
 		content: "Sounded just like the album recordings, and they were like 2 feet from me in a small venue. I saw them right before everything shut down for COVID"
 	},
