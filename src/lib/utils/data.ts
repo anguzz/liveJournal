@@ -77,7 +77,10 @@ export const concerts = [
 		heading: "Slightly Stoopid",
 		content: "Really enjoyed seeing them in person, played a lot of their popular stuff, which I enjoyed and sounded great"
 	},
-	
+	{
+		heading: "Sublime",
+		content: "Saw them perform for a Christmas KROQ performance at the kia forum with Jakob Nowell, Bradley's son who sounds just like him. It was pretty awesome and he sounds just like him, and is one of the bands I always wished I could see live so was a wish come true."
+	},
 	{
 		heading: "Subhumans",
 		content: "saw them at a super small venue and the crowd was super sick and went in the pit the whole show and came out soaked because of how small and hot and crowded it was"
