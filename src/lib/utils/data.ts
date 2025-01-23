@@ -13,7 +13,7 @@ export const concerts = [
 	},
 	{
 		heading:"Black Flag",
-		content:"Saw them in my hometown of Santa ana at the observatory, the pit was super crowded the whole time and they sounded amazing live"
+		content:"Saw them in my hometown of Santa ana at the observatory, the pit was super crowded the whole time and they sounded amazing live. Second time I saw them again in Santa ana and they sounded great. "
 	},
 	{
 		heading:"Cigarettes after sex",
@@ -60,6 +60,10 @@ export const concerts = [
 	{
 		heading: "Jpegmafia",
 		content: "Super hype, the crowd was super hyped"
+	},
+	{
+		heading:"Long Beach Dub Allstars ",
+		content:"One of my favorite performances in a while and they sounded so great live in a small venue. Very much enjoyed their energy and vibe, definitely makes me wnat to go to more reggae shows if possible going into 2025. "
 	},
 	{
 		heading:"Mac DeMarco",
