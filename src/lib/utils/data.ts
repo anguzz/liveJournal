@@ -130,12 +130,16 @@ export const concerts = [
 		content:"Vocals sounded just as good or better live and they made lots of jokes during performance that made it funny and enjoyable. Second time I saw them they were even better because the venue gave me a great view and I saw them from a balcony, the crowd and energy was awesome"
 	},
 	{
+		heading:"Vundabar",
+		content:"Sounded pretty awesome live, they made lots of jokes upstage and made everyone laugh"
+	},
+	{
 		heading: "Yellow Days",
 		content: "sounded a lot different live then the recordings, still good but seemed to almost freestyle a bit more compared to album recordings, which makes sense since with their jazz influence"
 	},
 	{
 		heading: "Yot Club",
-		content: "Sounded amazing live, prob one of the best performances i went to during 2024. The second time I saw them(twice in a year) they were just as good, I saw them alongside Vacations."
+		content: "Sounded amazing live, prob one of the best performances i went to during 2024. The second time I saw them(twice in a year) they were just as good, I saw them alongside Vacations. 3rd time I saw them alongside vundabar they sounded great, especially in such a small venue like the glass house. "
 	},
 	{
 		heading: "Zedd",
