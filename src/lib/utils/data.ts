@@ -16,6 +16,10 @@ export const concerts = [
 		content:"Saw them in my hometown of Santa ana at the observatory, the pit was super crowded the whole time and they sounded amazing live. Second time I saw them again in Santa ana and they sounded great. "
 	},
 	{
+		heading:"Buck O' Nine",
+		content:"Really liked the venue (Alex's Bar in Long Beach) they have great vibes and played lots of their top hits which was awesome"
+	},
+	{
 		heading:"Cigarettes after sex",
 		content:"saw them at kia forum, completely sold out so it was pretty packed, sounded pretty good live though! got the tickets pre-sale about 1+ year in advanced"
 	},
@@ -145,9 +149,4 @@ export const concerts = [
 		heading: "Zedd",
 		content: "Saw him in Vegas at the Omnia nightclub, sounded super great live, got a great lightshow and was at the very front like 3 feet away. Even though he started like 1:40am and I was tired it felt like he was controlling my heart bpm with how good he was. The thing that sucked was the crowd was super rude and the nightclub was sold out or oversold to the point there was no space to move around which was frustrating when trying to do anything."
 	},
-
-
-
-
-	
 ];
