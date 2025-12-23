@@ -8,6 +8,10 @@ export const concerts = [
 		content: "Cool to see them in person since I heard them a lot growing up while playing some Tony Hawk Underground 2 on PlayStation 2 "
 	},
 	{
+		heading:"Beach Fossils",
+		content: "They were awesome, saw them live in my hometown of Santa Ana with two friends and we had a great time. They were like 5 feet away since we got there early and had front row pit, and they sound just like their albums or better. Played a lot of their OG stuff and top songs."
+	},
+	{
 		heading: "Beach Goons",
 		content: "Sounded great, one of my favorite performances I think. As soon as they started with the first guitar riff, the crowd went absolutely bonkers, same exact thing happend 2nd time i saw them, lost my glasses in the crowd, 10/10 would do again"
 	},
