@@ -1,6 +1,0 @@
-version: 2
-updates:
-  - package-ecosystem: "npm" # npm is used for JavaScript dependencies
-    directory: "/" # Location of package manifests at the root of the repository
-    schedule:
-      interval: "weekly" # Dependabot will check for updates weekly

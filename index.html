@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Concerts</title>
+
+  <!-- Data first -->
+  <script src="data.js"></script>
+
+  <!-- Alpine second -->
+  <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.min.css">
+</head>
+<body>
+
+<main class="container">
+  <h1>Some bands I’ve seen and thoughts on them</h1>
+
+  <ul class="accordion" x-data="{ concerts: window.concerts }">
+    <template x-for="concert in concerts" :key="concert.heading">
+      <li x-data="{ open: false }">
+        <button @click="open = !open">
+          <span x-text="concert.heading"></span>
+          <span>▾</span>
+        </button>
+
+        <p x-show="open" x-collapse x-text="concert.content"></p>
+      </li>
+    </template>
+  </ul>
+</main>
+
+<style>
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+</style>
+
+</body>
+</html>

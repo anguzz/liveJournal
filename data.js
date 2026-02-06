@@ -1,5 +1,4 @@
-export const concerts = [
-	{
+window.concerts = [	{
 		heading: "311",
 		content: "Their vocals aged very well and sound very refined, great energy, saw them a second time for KROQ christmas at kia forum and they sounded amazing once again"
 	},
